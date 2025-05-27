@@ -20,7 +20,7 @@ https://github.com/yoram-ong/python-calculator.git cd python-calculator
 python calculator.py
 
 ## Screenshot
-
+Screenshot_20250528_064726_ru.iiec.pydroid3.jpg
 
 ## License
 This project is open-source and free to use.
